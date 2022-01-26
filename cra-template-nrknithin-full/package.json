@@ -7,12 +7,17 @@
     "template"
   ],
   "description": "Custom template with folder structure, axios based network Utilities, routing based on react router dom and context api",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nrknithin/react-templates.git",
+    "directory": "/cra-template-nrknithin-full"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/nrknithin/react-templates/issues"
   },
   "files": [
     "template",
