@@ -7,6 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     npx create-react-app my-app-name --template nrknithin-full
     cd my-app-name
 
+## Screenshot
+
+![Screenshot00](https://github.com/nrknithin/react-templates/blob/main/cra-template-nrknithin-full/assets/ss01.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
